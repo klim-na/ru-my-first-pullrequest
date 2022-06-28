@@ -305,3 +305,4 @@ Hello Hexlet, Hello Spd!
 
 Ветки — это ссылки на определённый коммит.
 Peace to all!
+test message
